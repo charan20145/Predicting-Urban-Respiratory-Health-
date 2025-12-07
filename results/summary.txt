@@ -1,0 +1,6 @@
+Model training summary
+Generated at: 2025-12-01T09:44:11.512253
+
+linear_regression: MAE=0.0000, RMSE=0.0000, R2=1.0000
+random_forest: MAE=0.1089, RMSE=0.3328, R2=0.9463
+xgboost: MAE=0.0557, RMSE=0.2358, R2=0.9730
